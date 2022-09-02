@@ -2,10 +2,7 @@
  <img  width="700" height="400"src="https://github.com/AnalystDaipayan/AnalystDaipayan/blob/main/Daipayan_Gif.gif">
 </p>
 
-<h2 align="center">Hola! 👋 Thanks for visiting this Data Nerd 🤓</h2>
-
-
-I am Daipayan and I 💖 to talk about Data.
+<h2 align="center">I am Daipayan and I 💖 to talk about Data</h2>
 
 
 ### ✨ About Me in 30 Secs ✨

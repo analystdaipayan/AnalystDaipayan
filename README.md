@@ -15,13 +15,16 @@
 ### 💡 Core Competencies 💡
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://github.com/fizzed/font-mfizz/blob/master/src/svg/mssql.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/excel-4.svg" alt="python" width="55" height="55"/>
-      
-      
-     
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="mysql" width="40" height="50"/>
+      <img src="https://github.com/fizzed/font-mfizz/blob/master/src/svg/mssql.svg" alt="mysql" width="40" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="50"/>
+      <img src="https://github.com/detain/svg-logos/blob/master/svg/excel-4.svg" alt="python" width="40" height="50"/>
+</p>
+
+### ✉️ Contact with Me ✉️
+<p align="left">
+<a href="https://linkedin.com/in/daipayanbanerjee77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daipayanbanerjee77" height="35" width="45" /></a>
+<a href="https://www.hackerrank.com/daipayan_banerj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daipayan_banerj1" height="35" width="45" /></a>
 </p>
 

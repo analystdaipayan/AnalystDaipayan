@@ -5,6 +5,9 @@
 <h2 align="center">I am Daipayan and I 💖 to talk about Data</h2>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=analystdaipayan&label=Profile%20views&color=0e75b6&style=flat" alt="analystdaipayan" /> </p>
+
+
 ### ✨ About Me in 30 Secs ✨
 
 - 💼 Currently working as a Perfromance Analyst in Infosys.

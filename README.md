@@ -18,7 +18,7 @@
 
 ### 💡 Core Competencies 💡
 
-- <h1 </h1> Languages: SQL, Python
+- <b>Languages:</b> SQL, Python
 - Database: SQL Server, Teradata, MySQL, BASE SAS
 - Visualisation: PowerBI
 - ETL Design: Alteryx Designer

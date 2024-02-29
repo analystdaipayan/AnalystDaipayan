@@ -1,6 +1,6 @@
-<p align="center">
+
  ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/AnalystDaipayan/AnalystDaipayan/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png)
-</p>
+
 
 <h2 align="center">I am Daipayan and I 💖 to talk about Data</h2>
 

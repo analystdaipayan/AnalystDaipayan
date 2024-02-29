@@ -23,7 +23,7 @@
 - <b>Visualisation:</b> PowerBI
 - <b>ETL Design:</b> Alteryx Designer
 
-### ✉️ Contact with Me ✉️
+### ✉️ Connect with Me ✉️
 <p align="left">
 <a href="https://linkedin.com/in/daipayanbanerjee77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daipayanbanerjee77" height="35" width="45" /></a>
 <a href="https://www.hackerrank.com/daipayan_banerj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daipayan_banerj1" height="35" width="45" /></a>

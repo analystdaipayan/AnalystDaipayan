@@ -19,9 +19,9 @@
 ### 💡 Core Competencies 💡
 
 - <b>Languages:</b> SQL, Python
-- Database: SQL Server, Teradata, MySQL, BASE SAS
-- Visualisation: PowerBI
-- ETL Design: Alteryx Designer
+- <b>Database:</b> SQL Server, Teradata, MySQL, BASE SAS
+- <b>Visualisation:</b> PowerBI
+- <b>ETL Design:</b> Alteryx Designer
 
 ### ✉️ Contact with Me ✉️
 <p align="left">

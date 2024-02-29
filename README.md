@@ -18,12 +18,10 @@
 
 ### 💡 Core Competencies 💡
 
-<p align="left">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="mysql" width="40" height="50"/>
-      <img src="https://github.com/fizzed/font-mfizz/blob/master/src/svg/mssql.svg" alt="mysql" width="40" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="50"/>
-</p>
+- Languages: SQL, Python
+- Database: SQL Server, Teradata, MySQL, BASE SAS
+- Visualisation: PowerBI
+- ETL Design: Alteryx Designer
 
 ### ✉️ Contact with Me ✉️
 <p align="left">

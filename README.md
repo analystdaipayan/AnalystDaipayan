@@ -2,7 +2,7 @@
  ![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/AnalystDaipayan/AnalystDaipayan/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png)
 
 
-<h2 align="center">I am Daipayan and I 💖 to talk about Data</h2>
+<h2 align="center">Hey! I am Daipayan and I 💖 to talk about Data</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analystdaipayan&label=Profile%20views&color=0e75b6&style=flat" alt="analystdaipayan" /> </p>

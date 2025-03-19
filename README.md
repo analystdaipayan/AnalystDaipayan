@@ -10,7 +10,7 @@
 
 ### ✨ About Me in 30 Secs ✨
 
-- 💼 Currently working as a Data Analyst in Infosys.
+- 💼 Currently working as a Data Analyst in ACCEL DIgital for Uber.
 - 💡 Helping businesses grow with Data-Driven Insights.
 - 📊 Making Data talk for themselves with PowerBI.
 - 🏎️ Automating ETL Workflows using Alteryx Designer.

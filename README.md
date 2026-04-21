@@ -19,9 +19,10 @@
 ### 💡 Core Competencies 💡
 
 - <b>Languages:</b> SQL, Python
-- <b>Database:</b> SQL Server, Teradata, MySQL, BASE SAS
+- <b>Database:</b> SQL Server, Teradata, MySQL
 - <b>Visualisation:</b> PowerBI
 - <b>ETL Design:</b> Alteryx Designer
+- <b>Data Warehouse:</b> Snowflake
 
 ### ✉️ Connect with Me ✉️
 <p align="left">
